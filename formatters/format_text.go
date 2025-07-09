@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"text/tabwriter"
 
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/report"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/report"
 )
 
 type TEXTFormatter struct {

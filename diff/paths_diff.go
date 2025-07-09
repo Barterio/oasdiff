@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"regexp"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // PathsDiff describes the changes between a pair of Paths objects: https://swagger.io/specification/#paths-object

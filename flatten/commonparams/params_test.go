@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/Barterio/oasdiff/flatten/commonparams"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/flatten/commonparams"
 	"github.com/stretchr/testify/require"
 )
 

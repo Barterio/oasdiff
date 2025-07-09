@@ -7,7 +7,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/utils"
 )
 
 // enumSliceValue is like stringSliceValue with allowed values

@@ -3,8 +3,8 @@ package headers_test
 import (
 	"testing"
 
+	"github.com/Barterio/oasdiff/flatten/headers"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/flatten/headers"
 	"github.com/stretchr/testify/require"
 )
 

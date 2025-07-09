@@ -4,7 +4,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/oasdiff/oasdiff/build"
+	"github.com/Barterio/oasdiff/build"
 	"github.com/spf13/cobra"
 )
 

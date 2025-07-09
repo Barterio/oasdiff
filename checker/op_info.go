@@ -1,8 +1,8 @@
 package checker
 
 import (
+	"github.com/Barterio/oasdiff/diff"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/diff"
 )
 
 // opInfo is used as an argument in helper functions in order to simplify the function signature.

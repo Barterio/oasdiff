@@ -4,7 +4,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/spf13/cobra"
 )
 

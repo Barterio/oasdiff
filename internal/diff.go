@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"io"
 
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/formatters"
-	"github.com/oasdiff/oasdiff/load"
 	"github.com/spf13/cobra"
 )
 

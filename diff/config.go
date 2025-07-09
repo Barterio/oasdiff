@@ -1,7 +1,7 @@
 package diff
 
 import (
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/utils"
 )
 
 // Config includes various settings to control the diff

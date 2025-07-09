@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/oasdiff/oasdiff/diff"
+	"github.com/Barterio/oasdiff/diff"
 )
 
 type report struct {

@@ -10,7 +10,7 @@ builds:
    env:
      - CGO_ENABLED=0
    ldflags:
-     - -s -w -X github.com/oasdiff/oasdiff/build.Version={{.Version}}
+     - -s -w -X github.com/Barterio/oasdiff/build.Version={{.Version}}
 
 release:
  prerelease: auto
@@ -21,7 +21,7 @@ universal_binaries:
 brews:
  -
    name: oasdiff
-   homepage: "https://github.com/oasdiff/oasdiff"
+   homepage: "https://github.com/Barterio/oasdiff"
    repository:
      owner: oasdiff
      name: homebrew-oasdiff
@@ -46,7 +46,7 @@ nfpms:
 
     # Template to your app's homepage.
     # Default is empty.
-    homepage: "https://github.com/oasdiff/oasdiff"
+    homepage: "https://github.com/Barterio/oasdiff"
 
     # Your app's maintainer (probably you).
     # Default is empty.

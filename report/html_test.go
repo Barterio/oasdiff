@@ -3,8 +3,8 @@ package report_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/report"
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/report"
 	"github.com/stretchr/testify/require"
 )
 

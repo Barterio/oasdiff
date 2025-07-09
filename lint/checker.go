@@ -3,7 +3,7 @@ package lint
 import (
 	"sort"
 
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/load"
 )
 
 const (

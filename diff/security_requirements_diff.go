@@ -3,8 +3,8 @@ package diff
 import (
 	"strings"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // SecurityRequirementsDiff describes the changes between a pair of sets of security requirement objects: https://swagger.io/specification/#security-requirement-object

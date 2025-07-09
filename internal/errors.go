@@ -3,7 +3,7 @@ package internal
 import (
 	"fmt"
 
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/load"
 )
 
 type ReturnError struct {

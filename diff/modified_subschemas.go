@@ -3,8 +3,8 @@ package diff
 import (
 	"fmt"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // ModifiedSubschemas is list of modified subschemas with their diffs

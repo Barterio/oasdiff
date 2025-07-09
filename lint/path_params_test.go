@@ -3,7 +3,7 @@ package lint_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/lint"
+	"github.com/Barterio/oasdiff/lint"
 	"github.com/stretchr/testify/require"
 )
 

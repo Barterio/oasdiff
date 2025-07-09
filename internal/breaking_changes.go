@@ -3,7 +3,7 @@ package internal
 import (
 	"io"
 
-	"github.com/oasdiff/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker"
 	"github.com/spf13/cobra"
 )
 

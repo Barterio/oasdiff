@@ -3,8 +3,8 @@ package diff
 import (
 	"fmt"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // ExamplesDiff describes the changes between a pair of sets of example objects: https://swagger.io/specification/#example-object

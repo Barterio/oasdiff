@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/TwiN/go-color"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/load"
 )
 
 // ApiChange represnts a change in the Paths Section of an OpenAPI spec

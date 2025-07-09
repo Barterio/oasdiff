@@ -1,7 +1,7 @@
 package checker
 
 import (
-	"github.com/oasdiff/oasdiff/diff"
+	"github.com/Barterio/oasdiff/diff"
 	"golang.org/x/exp/slices"
 )
 

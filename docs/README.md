@@ -1,8 +1,8 @@
 
-[![CI](https://github.com/oasdiff/oasdiff/workflows/go/badge.svg)](https://github.com/oasdiff/oasdiff/actions)
+[![CI](https://github.com/Barterio/oasdiff/workflows/go/badge.svg)](https://github.com/Barterio/oasdiff/actions)
 [![codecov](https://codecov.io/gh/oasdiff/oasdiff/branch/main/graph/badge.svg?token=Y8BM6X77JY)](https://codecov.io/gh/oasdiff/oasdiff)
-[![Go Report Card](https://goreportcard.com/badge/github.com/oasdiff/oasdiff)](https://goreportcard.com/report/github.com/oasdiff/oasdiff)
-[![GoDoc](https://godoc.org/github.com/oasdiff/oasdiff?status.svg)](https://godoc.org/github.com/oasdiff/oasdiff)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Barterio/oasdiff)](https://goreportcard.com/report/github.com/Barterio/oasdiff)
+[![GoDoc](https://godoc.org/github.com/Barterio/oasdiff?status.svg)](https://godoc.org/github.com/Barterio/oasdiff)
 [![Docker Image Version](https://img.shields.io/docker/v/tufin/oasdiff?sort=semver)](https://hub.docker.com/r/tufin/oasdiff/tags)
 [![Slack](https://img.shields.io/badge/slack-&#64;oasdiff-green.svg?logo=slack)](https://join.slack.com/t/oasdiff/shared_invite/zt-1wvo7wois-ttncNBmyjyRXqBzyg~P6oA)
 
@@ -15,7 +15,7 @@ Command-line and Go package to compare and detect breaking changes in OpenAPI sp
 
 ### Install with Go
 ```bash
-go install github.com/oasdiff/oasdiff@latest
+go install github.com/Barterio/oasdiff@latest
 ```
 
 ### Install on macOS with Brew
@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/oasdiff/oasdiff/main/install.sh | s
 https://github.com/oasdiff/asdf-oasdiff
 
 ### Manually install on macOS, Windows and Linux
-Copy binaries from [latest release](https://github.com/oasdiff/oasdiff/releases/).  
+Copy binaries from [latest release](https://github.com/Barterio/oasdiff/releases/).  
 
 ### Use install.sh
 You can use the [install.sh](../install.sh) script to install oasdiff.  
@@ -77,7 +77,7 @@ docker run --rm -t tufin/oasdiff changelog https://raw.githubusercontent.com/oas
 - [Customize with configuration files](CONFIG-FILES.md)
 - [Run from Docker](DOCKER.md)
 - [Integrate in GitHub](https://github.com/oasdiff/github-demo/tree/main)
-- [GitHub Action](https://github.com/oasdiff/oasdiff-action)
+- [GitHub Action](https://github.com/Barterio/oasdiff-action)
 - [Cloud Service](OASDIFF-SERVICE.md)
 - [OpenAPI Sync: Get notified when an API provider breaks the API](https://github.com/oasdiff/sync/)
 - [Embed in your go program](GO.md)
@@ -95,12 +95,12 @@ docker run --rm -t tufin/oasdiff changelog https://raw.githubusercontent.com/oas
 ## Roadmap
 I am currently working on the ability to correlate breaking changes and changelog messages with the underlying changes in the original YAML spec.  
 This will allow users to see changes in their original context, investigate, and determine how to handle them.  
-Specifically, github users will be able to click annotations and see the diff at the relevant line as discussed [here](https://github.com/oasdiff/oasdiff/issues/574).  
-[Please help us prioritize the roadmap](https://github.com/oasdiff/oasdiff/discussions/631).
+Specifically, github users will be able to click annotations and see the diff at the relevant line as discussed [here](https://github.com/Barterio/oasdiff/issues/574).  
+[Please help us prioritize the roadmap](https://github.com/Barterio/oasdiff/discussions/631).
 
 ## Credits
 This project relies on the excellent implementation of OpenAPI 3.0 for Go: [kin-openapi](https://github.com/getkin/kin-openapi).
 
 ## Feedback
 We welcome your feedback.  
-If you have ideas for improvement or additional needs around APIs, please [let us know](https://github.com/oasdiff/oasdiff/discussions/new?category=ideas).
+If you have ideas for improvement or additional needs around APIs, please [let us know](https://github.com/Barterio/oasdiff/discussions/new?category=ideas).

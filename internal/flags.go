@@ -1,8 +1,8 @@
 package internal
 
 import (
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/spf13/viper"
 )
 

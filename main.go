@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/oasdiff/oasdiff/internal"
+	"github.com/Barterio/oasdiff/internal"
 )
 
 func main() {

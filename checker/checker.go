@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sort"
 
+	"github.com/Barterio/oasdiff/diff"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/diff"
 )
 
 const (

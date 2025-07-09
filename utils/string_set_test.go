@@ -3,7 +3,7 @@ package utils_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/stretchr/testify/require"
 )
 

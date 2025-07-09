@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/civil"
-	"github.com/oasdiff/oasdiff/diff"
+	"github.com/Barterio/oasdiff/diff"
 )
 
 const (

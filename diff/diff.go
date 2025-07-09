@@ -6,8 +6,8 @@ import (
 	"fmt"
 
 	"cloud.google.com/go/civil"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/load"
 )
 
 const SinceDateExtension = "x-since-date"

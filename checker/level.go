@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/TwiN/go-color"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 type Level int

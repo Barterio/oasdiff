@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/load"
 	"github.com/stretchr/testify/require"
 )
 

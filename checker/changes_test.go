@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker"
 	"github.com/stretchr/testify/require"
 )
 

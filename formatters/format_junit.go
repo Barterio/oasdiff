@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/oasdiff/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker"
 )
 
 type JUnitTestSuites struct {

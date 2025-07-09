@@ -1,6 +1,6 @@
 package diff
 
-import "github.com/oasdiff/oasdiff/utils"
+import "github.com/Barterio/oasdiff/utils"
 
 type direction int
 

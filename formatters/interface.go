@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"sort"
 
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker/localizations"
+	"github.com/Barterio/oasdiff/diff"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/checker/localizations"
-	"github.com/oasdiff/oasdiff/diff"
 	"golang.org/x/exp/slices"
 )
 

@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/formatters"
-	"github.com/oasdiff/oasdiff/internal"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/internal"
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v3"
 )
@@ -362,7 +362,7 @@ func Test_Changelog_WithUnmatchPath(t *testing.T) {
 	require.Len(t, bc, 1)
 }
 
-// Test_JsonWithExcludeElements replicates https://github.com/oasdiff/oasdiff/issues/674
+// Test_JsonWithExcludeElements replicates https://github.com/Barterio/oasdiff/issues/674
 func Test_JsonWithExcludeElements(t *testing.T) {
 	require.Zero(t, internal.Run(cmdToArgs("oasdiff diff --format json --exclude-elements=description,title,summary ../data/description/spec1.yml ../data/description/spec2.yml --fail-on-diff"), io.Discard, io.Discard))
 }

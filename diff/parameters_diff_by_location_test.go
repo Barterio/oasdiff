@@ -3,8 +3,8 @@ package diff_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/stretchr/testify/require"
 )
 

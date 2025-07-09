@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/formatters"
 	"github.com/spf13/cobra"
 )
 

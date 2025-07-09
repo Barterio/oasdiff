@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
+	"github.com/Barterio/oasdiff/diff"
+	"github.com/Barterio/oasdiff/report"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/diff"
-	"github.com/oasdiff/oasdiff/report"
 	"github.com/stretchr/testify/require"
 )
 

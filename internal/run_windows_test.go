@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/internal"
+	"github.com/Barterio/oasdiff/internal"
 	"github.com/stretchr/testify/require"
 )
 

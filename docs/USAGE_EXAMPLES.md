@@ -13,7 +13,7 @@ oasdiff diff data/openapi-test1.yaml data/openapi-test2.yaml -f text
 ```
 The Text/Markdown diff report provides a simplified and partial view of the changes.  
 To view all details, use the default format: YAML.  
-If you'd like to see additional details in the text/markdown report, please submit a [feature request](https://github.com/oasdiff/oasdiff/issues/new?assignees=&labels=&template=feature_request.md&title=).
+If you'd like to see additional details in the text/markdown report, please submit a [feature request](https://github.com/Barterio/oasdiff/issues/new?assignees=&labels=&template=feature_request.md&title=).
 
 ### OpenAPI diff of local files in HTML
 ```bash
@@ -21,7 +21,7 @@ oasdiff diff data/openapi-test1.yaml data/openapi-test2.yaml -f html
 ```
 The HTML diff report provides a simplified and partial view of the changes.  
 To view all details, use the default format: YAML.  
-If you'd like to see additional details in the HTML report, please submit a [feature request](https://github.com/oasdiff/oasdiff/issues/new?assignees=&labels=&template=feature_request.md&title=).
+If you'd like to see additional details in the HTML report, please submit a [feature request](https://github.com/Barterio/oasdiff/issues/new?assignees=&labels=&template=feature_request.md&title=).
 
 
 ### OpenAPI diff for remote files over http/s

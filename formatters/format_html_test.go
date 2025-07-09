@@ -7,8 +7,8 @@ import (
 
 	_ "embed"
 
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/formatters"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

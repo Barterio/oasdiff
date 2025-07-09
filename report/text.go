@@ -3,7 +3,7 @@ package report
 import (
 	"bytes"
 
-	"github.com/oasdiff/oasdiff/diff"
+	"github.com/Barterio/oasdiff/diff"
 )
 
 // GetTextReportAsString returns a textual diff report as a string

@@ -1,8 +1,8 @@
 package diff
 
 import (
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // TagsDiff describes the changes between a pair of lists of tag objects: https://swagger.io/specification/#tag-object

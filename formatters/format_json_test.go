@@ -3,8 +3,8 @@ package formatters_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/formatters"
 	"github.com/stretchr/testify/require"
 )
 

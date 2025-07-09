@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker/generator"
+	"github.com/Barterio/oasdiff/checker/generator"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package checker
 import (
 	"fmt"
 
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/utils"
 )
 
 type Direction int8

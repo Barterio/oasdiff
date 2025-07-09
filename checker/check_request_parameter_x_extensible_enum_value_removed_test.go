@@ -3,8 +3,8 @@ package checker_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/diff"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/diff"
 	"github.com/stretchr/testify/require"
 )
 

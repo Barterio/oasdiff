@@ -48,7 +48,7 @@ Additional formats can be generated using the `--format` flag:
 - yaml
 - githubactions: suitable for integration with github
 - junit: suitable for integration with gitlab
-- html: [see example](https://html-preview.github.io/?url=https://github.com/oasdiff/oasdiff/blob/main/docs/changelog.html)
+- html: [see example](https://html-preview.github.io/?url=https://github.com/Barterio/oasdiff/blob/main/docs/changelog.html)
 - markdown: [see example](changelog.md)
 - text: the default, human-readable, format
 - singleline: displays each change on a single line, this can be useful to prepare [ignore files](#ignoring-specific-breaking-changes)
@@ -105,7 +105,7 @@ If you don't use the `x-extensible-enum` in your OpenAPI specifications, nothing
 ### Localization
 To display changes in other languages, use the `--lang` flag.  
 Currently English, Russian and Brazilian Portuguese are supported.  
-[Please improve oasdiff by adding your own language](https://github.com/oasdiff/oasdiff/issues/383).
+[Please improve oasdiff by adding your own language](https://github.com/Barterio/oasdiff/issues/383).
 
 ### Customizing Severity Levels
 Oasdiff allows you to change the default severity levels according to your needs.  

@@ -3,8 +3,8 @@ package diff
 import (
 	"fmt"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 // LinksDiff describes the changes between a pair of sets of link objects: https://swagger.io/specification/#link-object

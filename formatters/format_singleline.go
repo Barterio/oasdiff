@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/oasdiff/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker"
 )
 
 type SingleLineFormatter struct {

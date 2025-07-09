@@ -1,9 +1,9 @@
 package internal
 
 import (
-	"github.com/oasdiff/oasdiff/checker"
-	"github.com/oasdiff/oasdiff/checker/localizations"
-	"github.com/oasdiff/oasdiff/formatters"
+	"github.com/Barterio/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker/localizations"
+	"github.com/Barterio/oasdiff/formatters"
 	"github.com/spf13/cobra"
 )
 

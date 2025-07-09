@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/oasdiff/oasdiff/flatten/allof"
+	"github.com/Barterio/oasdiff/flatten/allof"
 	"github.com/stretchr/testify/require"
 
 	"github.com/getkin/kin-openapi/openapi3"

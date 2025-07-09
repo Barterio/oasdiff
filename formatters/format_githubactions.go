@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/oasdiff/oasdiff/checker"
+	"github.com/Barterio/oasdiff/checker"
 )
 
 var githubActionsSeverity = map[checker.Level]string{

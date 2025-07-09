@@ -1,7 +1,7 @@
 package diff
 
 import (
-	"github.com/oasdiff/oasdiff/utils"
+	"github.com/Barterio/oasdiff/utils"
 )
 
 // InterfaceMap is a map of string to interface

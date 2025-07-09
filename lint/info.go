@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/oasdiff/oasdiff/load"
+	"github.com/Barterio/oasdiff/load"
 )
 
 // InfoCheck based on REQUIRED fields (Version and Info) from swagger docs,

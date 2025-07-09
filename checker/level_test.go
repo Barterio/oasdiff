@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/Barterio/oasdiff/checker"
 	"github.com/TwiN/go-color"
-	"github.com/oasdiff/oasdiff/checker"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,4 +1,4 @@
-module github.com/oasdiff/oasdiff
+module github.com/Barterio/oasdiff
 
 go 1.24
 

@@ -3,7 +3,7 @@ package localizations_test
 import (
 	"testing"
 
-	"github.com/oasdiff/oasdiff/checker/localizations"
+	"github.com/Barterio/oasdiff/checker/localizations"
 	"github.com/stretchr/testify/require"
 )
 

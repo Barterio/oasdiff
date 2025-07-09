@@ -3,8 +3,8 @@ package diff
 import (
 	"strings"
 
+	"github.com/Barterio/oasdiff/utils"
 	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/oasdiff/oasdiff/utils"
 )
 
 type pathItemPair struct {
